@@ -7,6 +7,9 @@ WORKDIR /app
 # Copy everything (including Maven wrapper if using it)
 COPY . .
 
+# Make the Maven wrapper script executable
+RUN chmod +x mvnw
+
 # Build the app (change this if you use Gradle)
 RUN ./mvnw clean package -DskipTests
 
