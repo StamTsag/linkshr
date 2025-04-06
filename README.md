@@ -1,6 +1,6 @@
 <h2 align='center'>
 
-<img src="https://github.com/StamTsag/linkshr/blob/main/.github/assets/preview.png" alt='LinkShr preview'>
+<img src="https://github.com/StamTsag/linkshr/blob/master/.github/assets/preview.png" alt='LinkShr preview'>
   
 </h2>
 
