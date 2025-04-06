@@ -13,8 +13,6 @@ public class LinkService {
     @Autowired
     private LinkRepository linkRepository;
 
-
-
     public Link create(String target) {
         String code;
 
